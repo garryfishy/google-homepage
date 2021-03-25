@@ -1,0 +1,38 @@
+
+.logo {
+    
+  clear: both;
+  display: block;
+  margin: 0 auto;
+  left: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul li{
+
+    display: inline-block;
+    margin-left: 10px;
+    margin-right:10px;
+    clear: both;
+    
+}
+
+ul li a{
+    text-decoration: none;
+    color: black
+}
+
+.search{
+width: 100%;
+text-align: center;
+}
+
+.search button{
+    background-color: whitesmoke;
+    border-radius: 1rem;
+    box-shadow: grey    ;
+}
